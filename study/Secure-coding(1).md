@@ -16,8 +16,14 @@
 - 파일 업로드
 - 파일 다운로드
 
-
+#### 주요 보안 취약점
+1. 입력값 검증
+   - SQL Injection
+   - Cross-Site Scripting(XSS)
+   - 파일 업로드
+   - 파일 다운로드
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjcxNjg1OCwtMTU4MzgxODEzMiwtMT
-IzMjgxMzEyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU5NjM1MTMwMSwtMzk2NzE2ODU4LC0xNT
+gzODE4MTMyLC0xMjMyODEzMTIyLDczMDk5ODExNl19
 -->
