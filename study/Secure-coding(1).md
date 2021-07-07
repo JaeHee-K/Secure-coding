@@ -34,8 +34,10 @@
    - 시스템정보, 패스워드 등 주요 정보 노출
 
 5. 환경 설정
-   - 불필요한 mE
+   - 불필요한 Method
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTc4MTcwNiwtMzk2NzE2ODU4LC0xNT
+eyJoaXN0b3J5IjpbMTYyODA0OTQ2OSwtMzk2NzE2ODU4LC0xNT
 gzODE4MTMyLC0xMjMyODEzMTIyLDczMDk5ODExNl19
 -->
