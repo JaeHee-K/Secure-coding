@@ -12,7 +12,12 @@
 - 취약한 접근제어/권한관리
 - 취약한 인증/세션관리
 - Cross-Site Scripting(XSS)
+- SQL Injection
+- 파일 업로드
+- 파일 다운로드
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MjI0MzMxLC0xNTgzODE4MTMyLC0xMj
-MyODEzMTIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM5NjcxNjg1OCwtMTU4MzgxODEzMiwtMT
+IzMjgxMzEyMiw3MzA5OTgxMTZdfQ==
 -->
