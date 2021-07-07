@@ -8,8 +8,11 @@
 애플리케이션은 서버 및 로직에 따라 보안 취약점이 발생할 수 있음
 
 
-
+### 19년 보안검증의 Secure Coding 대응 취약점 TOP 6
+- 취약한 접근제어/권한관리
+- 취약한 인증/세션관리
+- Cross-Site Scripting(XSS)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4MTgxMzIsLTEyMzI4MTMxMjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzU3MjI0MzMxLC0xNTgzODE4MTMyLC0xMj
+MyODEzMTIyLDczMDk5ODExNl19
 -->
