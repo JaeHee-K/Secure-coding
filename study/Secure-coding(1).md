@@ -8,6 +8,8 @@
 애플리케이션은 서버 및 로직에 따라 보안 취약점이 발생할 수 있음
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI4MTMxMjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1ODM4MTgxMzIsLTEyMzI4MTMxMjIsNz
+MwOTk4MTE2XX0=
 -->
