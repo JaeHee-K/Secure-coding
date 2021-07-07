@@ -3,7 +3,11 @@
 
 ## 시큐어코딩 개요 및 필요성
 침해 사고 발생 빈도의 75%는 네트워크 측면임
-(나머지느
+(나머지는 애플리케이션)
+
+애플리케이션은 서버 및 로직에 따라 보안 취약점이 발생할 수 있음
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDI5MzcxMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI4MTMxMjIsNzMwOTk4MTE2XX0=
 -->
