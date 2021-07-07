@@ -24,9 +24,18 @@
    - 파일 다운로드
 
 2. 접근 제어 및 권한 관리
-   - ㅇㅈ
-   - 
+   - 부적절한 인증/인가
+
+3. 쿠키 및 세션 관리
+   - 취약한 세션 관리 및 쿠키 변조
+
+4. 정보 노출
+   - 오류메시지를 통한 정보 노출
+   - 시스템정보, 패스워드 등 주요 정보 노출
+
+5. 환경 설정
+   - 불필요한 mE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ5ODAzMiwtMzk2NzE2ODU4LC0xNT
+eyJoaXN0b3J5IjpbMTAwOTc4MTcwNiwtMzk2NzE2ODU4LC0xNT
 gzODE4MTMyLC0xMjMyODEzMTIyLDczMDk5ODExNl19
 -->
