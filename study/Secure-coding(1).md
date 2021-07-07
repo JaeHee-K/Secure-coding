@@ -22,8 +22,11 @@
    - Cross-Site Scripting(XSS)
    - 파일 업로드
    - 파일 다운로드
-2. 
+
+2. 접근 제어 및 권한 관리
+   - ㅇㅈ
+   - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjM1MTMwMSwtMzk2NzE2ODU4LC0xNT
+eyJoaXN0b3J5IjpbLTE3NzQ5ODAzMiwtMzk2NzE2ODU4LC0xNT
 gzODE4MTMyLC0xMjMyODEzMTIyLDczMDk5ODExNl19
 -->
